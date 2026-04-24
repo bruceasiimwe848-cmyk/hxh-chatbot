@@ -1,5 +1,5 @@
-streamlit
-langchain-community
-langchain-core
-chromadb
-sentence-transformers
+streamlit==1.32.0
+langchain-community==0.0.36
+langchain-core==0.1.52
+chromadb==0.4.24
+sentence-transformers==2.6.1
